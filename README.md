@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I am Raquel Carmo 👋
+
+I'm an Aerospace Engineer and currently a researcher at the Φ-lab in the European Space Agency (ESRIN).
+
+🔭 I intend to learn as much as possible about Artificial Intelligence and Machine Learning and apply this knowledge on different exciting and challenging projects.
+
+Find me in:
+![linkedin](https://www.linkedin.com/in/raquelscarmo/)
+
+[linkedin]: https://www.linkedin.com/in/raquelscarmo/
+[instagram]: https://instagram.com/raquelscarmo/
 
 <!--
 **raquelcarmo/RaquelCarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
