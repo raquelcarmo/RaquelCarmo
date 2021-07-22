@@ -5,10 +5,14 @@ I'm an Aerospace Engineer and currently a researcher at the Φ-lab in the Europe
 🔭 I intend to learn as much as possible about Artificial Intelligence and Machine Learning and apply this knowledge on different exciting and challenging projects.
 
 Find me in:
-![instagram](https://user-images.githubusercontent.com/30031382/126649409-57155d23-b3a8-4261-ac93-44aba427b583.png)
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[1] https://www.linkedin.com/in/raquelscarmo/
+[linkedin]: https://www.linkedin.com/in/raquelscarmo/
+[facebook]: https://www.facebook.com/raquel.carmo.39/
+[instagram]: https://www.instagram.com/raquelscarmo/
 
 <!--
 **raquelcarmo/RaquelCarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
