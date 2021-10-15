@@ -1,8 +1,8 @@
-### Hi there, I am Raquel Carmo 👋
+### Hi there, I am Raquel Carmo 👋🏻
 
 #### I'm a Portuguese Aerospace Engineer and currently a researcher at the Φ-lab in the European Space Agency (ESRIN).
 
-⚡ I intend to learn as much as possible about Artificial Intelligence and Machine Learning and apply this knowledge on different exciting and challenging projects.
+🔭 I intend to learn as much as possible about Artificial Intelligence and Machine Learning and apply this knowledge on different exciting and challenging projects.
 
 📫 How to reach me: raquelarscarmo@gmail.com
 
